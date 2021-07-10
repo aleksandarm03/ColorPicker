@@ -1,0 +1,3 @@
+C:\Users\aleks\AppData\Local\Temporary Projects\ColorPicker\obj\x86\Release\ColorPicker.Form1.resources
+C:\Users\aleks\AppData\Local\Temporary Projects\ColorPicker\obj\x86\Release\ColorPicker.Properties.Resources.resources
+C:\Users\aleks\AppData\Local\Temporary Projects\ColorPicker\obj\x86\Release\ColorPicker.csproj.GenerateResource.Cache

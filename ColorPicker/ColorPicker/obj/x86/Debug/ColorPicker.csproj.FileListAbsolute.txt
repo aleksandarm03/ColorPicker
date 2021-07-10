@@ -1,0 +1,8 @@
+C:\Users\aleks\AppData\Local\Temporary Projects\ColorPicker\bin\Debug\ColorPicker.exe
+C:\Users\aleks\AppData\Local\Temporary Projects\ColorPicker\bin\Debug\ColorPicker.pdb
+C:\Users\aleks\AppData\Local\Temporary Projects\ColorPicker\obj\x86\Debug\ColorPicker.csprojResolveAssemblyReference.cache
+C:\Users\aleks\AppData\Local\Temporary Projects\ColorPicker\obj\x86\Debug\ColorPicker.Form1.resources
+C:\Users\aleks\AppData\Local\Temporary Projects\ColorPicker\obj\x86\Debug\ColorPicker.Properties.Resources.resources
+C:\Users\aleks\AppData\Local\Temporary Projects\ColorPicker\obj\x86\Debug\ColorPicker.csproj.GenerateResource.Cache
+C:\Users\aleks\AppData\Local\Temporary Projects\ColorPicker\obj\x86\Debug\ColorPicker.exe
+C:\Users\aleks\AppData\Local\Temporary Projects\ColorPicker\obj\x86\Debug\ColorPicker.pdb
